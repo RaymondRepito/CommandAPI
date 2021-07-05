@@ -13,6 +13,7 @@ namespace CommandAPI
     {
         public static void Main(string[] args)
         {
+            // Test
             CreateHostBuilder(args).Build().Run();
         }
 
